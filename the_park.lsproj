@@ -1,0 +1,3341 @@
+{
+    "lens_id": "",
+    "document_id": "_j5UfcQyZRyvxKw0vMrl",
+    "original_document_id": "_j5UfcQyZRyvxKw0vMrl",
+    "version": "29",
+    "lastChanged": "1675269120478",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Frames"
+                    ],
+                    [
+                        "Textures",
+                        "Feburary Clandestine Menu - 3040 The Park - 2023 - Final"
+                    ],
+                    [
+                        "Textures",
+                        "cat"
+                    ],
+                    [
+                        "Textures",
+                        "cat (2)"
+                    ],
+                    [
+                        "Textures",
+                        "marvista"
+                    ],
+                    [
+                        "Textures",
+                        "menu"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1498868548554305:767",
+                    "1509488222389516:56404",
+                    "1509490042146819:170181"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f992b0062a3e3aadd052d25361f66a92",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "The Park",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Stairs.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Stairs.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1509487787794075:30175",
+                    "name": "\/Resources\/Resource160.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1509492833333682:279835",
+                    "name": "\/Resources\/Resource182.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1509492833374091:279844",
+                    "name": "\/Resources\/Resource183.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1509493318443637:287012",
+                    "name": "\/Resources\/Resource196.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1509493543692629:66391",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1509520383227958:24746",
+                    "name": "\/Resources\/Resource208.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1510598751069370:21167",
+                    "name": "\/Resources\/Resource210.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1510598777425338:21184",
+                    "name": "\/Resources\/Resource211.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1510622465578532:8443",
+                    "name": "\/Resources\/Resource247.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1510622465578336:8431",
+                    "name": "\/Resources\/Resource250.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1510622465578083:8415",
+                    "name": "\/Resources\/Resource251.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1510622465510160:8396",
+                    "name": "\/Resources\/Resource252.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1510622784648922:14164",
+                    "name": "\/Resources\/Resource257.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1510623174404575:25886",
+                    "name": "\/Resources\/Resource261.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "267",
+                    "uid": "1510623174345981:25871",
+                    "name": "\/Resources\/Resource267.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1510624611313663:97512",
+                    "name": "\/Resources\/Resource275.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1510624714392951:103122",
+                    "name": "\/Resources\/Resource278.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1510624714393132:103128",
+                    "name": "\/Resources\/Resource279.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "282",
+                    "uid": "1510624714393309:103134",
+                    "name": "\/Resources\/Resource282.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "329",
+                    "uid": "1511405079705702:97231",
+                    "name": "\/Resources\/Resource329.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "332",
+                    "uid": "1519941447468011:639987",
+                    "name": "\/Resources\/Resource332",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "338",
+                    "uid": "1519941807816995:642925",
+                    "name": "\/Resources\/Resource338",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "346",
+                    "uid": "1519942080527926:647490",
+                    "name": "\/Resources\/Resource346",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "347",
+                    "uid": "1588126234518369:221323",
+                    "name": "Files\/File56.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1588126234532543:221330",
+                    "name": "Files\/File58.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "349",
+                    "uid": "1599160408798281:1210993",
+                    "name": "Files\/File61",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1623376089767855:7533779",
+                    "name": "Files\/File78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "351",
+                    "uid": "1623376293169045:7562878",
+                    "name": "Files\/File80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1623376314872791:7567959",
+                    "name": "Files\/File86",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "354",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "355",
+                    "uid": "1675143299128207:115968",
+                    "name": "Files\/File102.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "356",
+                    "uid": "1675143451595483:127190",
+                    "name": "Files\/File105.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "359",
+                    "uid": "1675144612563463:212597",
+                    "name": "Files\/File113.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "360",
+                    "uid": "1675268889363027:7960",
+                    "name": "Files\/File116.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1509488222389516:56404",
+                "2": "1509488507358977:82149",
+                "3": "1509490042146819:170181",
+                "4": "1509492823902701:277439",
+                "5": "1509493136070300:280430",
+                "6": "1509493160453737:282494",
+                "7": "1509493188107488:284538",
+                "8": "1509494056201058:21458",
+                "9": "1509494075806741:23629",
+                "10": "1509494096263146:26050",
+                "11": "1509494107830153:28190",
+                "12": "1509519957665504:18597",
+                "13": "1510618280552451:62803",
+                "14": "1510618280552550:62843",
+                "15": "1510618280552609:62870",
+                "16": "1510620159858641:95540",
+                "17": "1510620159858656:95543",
+                "18": "1510620159858681:95549",
+                "19": "1510620159858696:95555",
+                "20": "1510620159858709:95561",
+                "21": "1510620159858720:95567",
+                "22": "1510620159858739:95573",
+                "23": "1510620159858751:95579",
+                "24": "1510620159858761:95585",
+                "25": "1510620163965409:96627",
+                "26": "1510620163965423:96630",
+                "27": "1510620163965447:96636",
+                "28": "1510620163965461:96642",
+                "29": "1510620163965473:96648",
+                "30": "1510620163965483:96654",
+                "31": "1510620163965494:96660",
+                "32": "1510620163965505:96666",
+                "33": "1510620163965515:96672",
+                "34": "1511404974503917:96242",
+                "35": "1519941328678572:637049",
+                "36": "1520377647524472:78701",
+                "37": "1553535602748760:61163"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.mesh"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.js"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.pvr"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mesh"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.mesh"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.mesh"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.js"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.mesh"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.mesh"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.jpeg"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.jpeg"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpeg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.jpeg"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.hdr"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.lsmat"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.mesh"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.mesh"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.mesh"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.mesh"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.mesh"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.mesh"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.mesh"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.mesh"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.mesh"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.mesh"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.mesh"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.mesh"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.mesh"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.mesh"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.jpg"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.jpg"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.jpg"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.jpg"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.jpg"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.jpg"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.jpg"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.jpg"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.jpg"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.pvr"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.png"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.png"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.pvr"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Frames"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Frames\/Textures"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Frames\/Textures\/cap_frame_materialParams.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Frames\/Textures\/cap_frame_base.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Frames\/Textures\/white.png"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Frames\/Materials"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Frames\/Materials\/Gloss.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Frames\/Materials\/Matte.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Frames\/Materials\/Gold.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Frames\/Meshes"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Frames\/Meshes\/frame_a"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Frames\/Meshes\/frame_a\/corner_a.mesh"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Frames\/Meshes\/frame_a\/side_a.mesh"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Frames\/Meshes\/frame_b"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Frames\/Meshes\/frame_b\/side_b_matte.mesh"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Frames\/Meshes\/frame_b\/corner_b_matte.mesh"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Frames\/Meshes\/frame_b\/side_b.mesh"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Frames\/Meshes\/frame_b\/corner_b.mesh"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Frames\/Meshes\/Others"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Frames\/Meshes\/Others\/ground_grid_mesh.mesh"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Frames\/Meshes\/Others\/picture_collision_and_caster.mesh"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Frames\/Meshes\/frame_c"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Frames\/Meshes\/frame_c\/corner_c.mesh"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Frames\/Meshes\/frame_c\/side_c.mesh"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Frames\/Meshes\/frame_c\/star_01.mesh"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Frames\/Meshes\/frame_c\/star_02.mesh"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Frames\/Meshes\/frame_c\/star_03.mesh"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Scripts\/WorldObjectController.js"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Scripts\/PictureFrameController.js"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Scripts\/UniformScale.js"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Textures\/ground_grid.png"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "46",
+                        "v": "Meshes\/Plane.mesh"
+                    },
+                    {
+                        "k": "627",
+                        "v": "Textures\/marvista.hdr"
+                    },
+                    {
+                        "k": "7768",
+                        "v": "Materials\/Graph Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "26636",
+                        "v": "Frames\/Materials\/White.lsmat"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "Materials\/ground_grid.lsmat"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "Materials\/picture.lsmat"
+                    },
+                    {
+                        "k": "26871",
+                        "v": "Textures\/menu.jpg"
+                    },
+                    {
+                        "k": "26872",
+                        "v": "Textures\/cat.jpg"
+                    },
+                    {
+                        "k": "26874",
+                        "v": "Textures\/cat (2).jpg"
+                    },
+                    {
+                        "k": "26875",
+                        "v": "Textures\/Feburary Clandestine Menu - 3040 The Park - 2023 - Final.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "3",
+                        "v": "39d1728142e928fc2f2e3292eb1825a9"
+                    },
+                    {
+                        "k": "4",
+                        "v": "e6e030a0075b1caf35ec5f30f3700cdb"
+                    },
+                    {
+                        "k": "5",
+                        "v": "e6e030a0075b1caf35ec5f30f3700cdb"
+                    },
+                    {
+                        "k": "7",
+                        "v": "6c80ea86118027c50f0534be1ce0c437"
+                    },
+                    {
+                        "k": "8",
+                        "v": "944b0ed7b5f6c57d45c33eff771137b6"
+                    },
+                    {
+                        "k": "9",
+                        "v": "f792e80188445b344366af77c4015d37"
+                    },
+                    {
+                        "k": "10",
+                        "v": "127a6cbdf99f461b2ed5479b581b50ae"
+                    },
+                    {
+                        "k": "13",
+                        "v": "b4876c5f63c3f80c80f6d98e6a20fd04"
+                    },
+                    {
+                        "k": "14",
+                        "v": "10189d781513c46d1a5bbc6bf2362914"
+                    },
+                    {
+                        "k": "16",
+                        "v": "c45683b1b9e075b103ada6fa226770d6"
+                    },
+                    {
+                        "k": "17",
+                        "v": "afb3816f7ec07e7c29d629c1f0c27170"
+                    },
+                    {
+                        "k": "18",
+                        "v": "e5e0b5373f1e7a49462bc0e67d8c0b97"
+                    },
+                    {
+                        "k": "19",
+                        "v": "4e9b729ff9a823cc1f9191a4e2de0902"
+                    },
+                    {
+                        "k": "21",
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    },
+                    {
+                        "k": "22",
+                        "v": "f52264f0fafaf1af8dc0ecd851c00ad1"
+                    },
+                    {
+                        "k": "24",
+                        "v": "ad23c3c5b1a3d4738a1546031e475e35"
+                    },
+                    {
+                        "k": "25",
+                        "v": "54073224b78d9d4af74dfdcb2f15afd3"
+                    },
+                    {
+                        "k": "26",
+                        "v": "dbc8b9d4a96aebcc9c64bc6bbcd7e529"
+                    },
+                    {
+                        "k": "27",
+                        "v": "41daa34ab03797481fe413ed2e273aea"
+                    },
+                    {
+                        "k": "28",
+                        "v": "c5b3300952f525e722bb78f859e7b30e"
+                    },
+                    {
+                        "k": "30",
+                        "v": "2a1b28b63574f9c96fc209798e2af188"
+                    },
+                    {
+                        "k": "31",
+                        "v": "f43fbe497408fe846f770eb8f787cb25"
+                    },
+                    {
+                        "k": "32",
+                        "v": "db6f61d5630c65d056cca681dbcc0d17"
+                    },
+                    {
+                        "k": "34",
+                        "v": "c9cc0acd5dd3832a63c0c8b865ba4aae"
+                    },
+                    {
+                        "k": "35",
+                        "v": "441e03e6cbaf2911803ef82a1578cb84"
+                    },
+                    {
+                        "k": "36",
+                        "v": "5c409f7baf1c03bafcbfebbd3a9d4bbf"
+                    },
+                    {
+                        "k": "37",
+                        "v": "77fb6fb68f75ae678645d6cade0fff63"
+                    },
+                    {
+                        "k": "39",
+                        "v": "12d4df93737811f6fd42aa6b030b3e6c"
+                    },
+                    {
+                        "k": "40",
+                        "v": "3cc0a1d9deddf2a85fd8d980abc0248c"
+                    },
+                    {
+                        "k": "41",
+                        "v": "5167f791115e0d7d62e5103740694a36"
+                    },
+                    {
+                        "k": "42",
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    },
+                    {
+                        "k": "43",
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    },
+                    {
+                        "k": "44",
+                        "v": "08a31fb53a9a4fd8fa7cb86a2e03d306"
+                    },
+                    {
+                        "k": "46",
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    },
+                    {
+                        "k": "48",
+                        "v": "27d610dea5305ce9c8b498e80f698b37"
+                    },
+                    {
+                        "k": "49",
+                        "v": "8a8e0d78c6cbcb4af64f0f9bdd603b6c"
+                    },
+                    {
+                        "k": "50",
+                        "v": "680e6628414b9cb060f66bc1607e1547"
+                    },
+                    {
+                        "k": "51",
+                        "v": "17ebc8dfd5856de9f5d7e2a55ded12b7"
+                    },
+                    {
+                        "k": "52",
+                        "v": "0a872dd19a8bc343ba7fadc67a381d61"
+                    },
+                    {
+                        "k": "627",
+                        "v": "a7ac471fd7325168eb784a10577fb476"
+                    },
+                    {
+                        "k": "7768",
+                        "v": "7d4727f84e7430f66a26e3e03e3aab01"
+                    },
+                    {
+                        "k": "26636",
+                        "v": "7c51b2ad79b3b1f113c3abe0da0555f5"
+                    },
+                    {
+                        "k": "26637",
+                        "v": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "b03b57740b758522b1c70e11118a4217"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "ce5107449c4c55126b3bc4245edced90"
+                    },
+                    {
+                        "k": "26809",
+                        "v": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    {
+                        "k": "26870",
+                        "v": "08a31fb53a9a4fd8fa7cb86a2e03d306"
+                    },
+                    {
+                        "k": "26871",
+                        "v": "31542963a826ba4a1fc6bc3837e60469"
+                    },
+                    {
+                        "k": "26872",
+                        "v": "80d149e6c51d6e2ea25e760b06c65ab8"
+                    },
+                    {
+                        "k": "26873",
+                        "v": "a7ac471fd7325168eb784a10577fb476"
+                    },
+                    {
+                        "k": "26874",
+                        "v": "2f5f89279d541963faaf4a41e2f6945d"
+                    },
+                    {
+                        "k": "26875",
+                        "v": "6e8c249e872e3523bb11b36cf67907b2"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2023-02-01T08:28:11",
+                        "name": "Public",
+                        "hash": "e3b6bb4ed0a6715ef901d1341a3717f9",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-22T12:14:35",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-30T21:46:36",
+                                "name": "Frames",
+                                "hash": "9e82b29bdb70c0fc33b43eec3678872b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-30T21:46:36",
+                                        "name": "Materials",
+                                        "hash": "40d3edea4e54c327a486fca3a9d99444",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "Gloss.lsmat",
+                                                "hash": "6c80ea86118027c50f0534be1ce0c437",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "Gold.lsmat",
+                                                "hash": "127a6cbdf99f461b2ed5479b581b50ae",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "Matte.lsmat",
+                                                "hash": "944b0ed7b5f6c57d45c33eff771137b6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-30T21:20:07",
+                                                "name": "White.lsmat",
+                                                "hash": "7c51b2ad79b3b1f113c3abe0da0555f5",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-30T21:46:36",
+                                        "name": "Meshes",
+                                        "hash": "ae46d601a828403f33c96bccea48ba42",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2023-01-30T21:46:36",
+                                                "name": "frame_a",
+                                                "hash": "47d5b6e142cac719bbb19531837b35f6",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "corner_a.mesh",
+                                                        "hash": "b4876c5f63c3f80c80f6d98e6a20fd04",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "side_a.mesh",
+                                                        "hash": "10189d781513c46d1a5bbc6bf2362914",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2023-01-30T21:46:36",
+                                                "name": "frame_b",
+                                                "hash": "3c1d62124cfd152151d2e8348993e677",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "corner_b.mesh",
+                                                        "hash": "4e9b729ff9a823cc1f9191a4e2de0902",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "corner_b_matte.mesh",
+                                                        "hash": "afb3816f7ec07e7c29d629c1f0c27170",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "side_b.mesh",
+                                                        "hash": "e5e0b5373f1e7a49462bc0e67d8c0b97",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "side_b_matte.mesh",
+                                                        "hash": "c45683b1b9e075b103ada6fa226770d6",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2023-01-30T21:46:36",
+                                                "name": "frame_c",
+                                                "hash": "b49e38c8cc6ecc3838cb8d973d957afe",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "corner_c.mesh",
+                                                        "hash": "ad23c3c5b1a3d4738a1546031e475e35",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "side_c.mesh",
+                                                        "hash": "54073224b78d9d4af74dfdcb2f15afd3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "star_01.mesh",
+                                                        "hash": "dbc8b9d4a96aebcc9c64bc6bbcd7e529",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "star_02.mesh",
+                                                        "hash": "41daa34ab03797481fe413ed2e273aea",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "star_03.mesh",
+                                                        "hash": "c5b3300952f525e722bb78f859e7b30e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2023-01-30T21:46:36",
+                                                "name": "Others",
+                                                "hash": "8be5002427c880d7a08ef378f297d222",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "ground_grid_mesh.mesh",
+                                                        "hash": "ca6a55793555b88df4aca4a7329624e5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-22T12:14:35",
+                                                        "name": "picture_collision_and_caster.mesh",
+                                                        "hash": "f52264f0fafaf1af8dc0ecd851c00ad1",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-30T21:46:36",
+                                        "name": "Textures",
+                                        "hash": "270975edeb278b3576b7ca8b84bf59f4",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "cap_frame_base.png",
+                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "cap_frame_materialParams.png",
+                                                "hash": "39d1728142e928fc2f2e3292eb1825a9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-22T12:14:35",
+                                                "name": "white.png",
+                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-02-01T08:29:44",
+                                "name": "Materials",
+                                "hash": "687b88ed5e8bb609456eb7301ff820c4",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-30T21:20:07",
+                                        "name": "Graph Matte Shadow.lsmat",
+                                        "hash": "7d4727f84e7430f66a26e3e03e3aab01",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-30T21:20:07",
+                                        "name": "ground_grid.lsmat",
+                                        "hash": "b03b57740b758522b1c70e11118a4217",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-01T08:26:51",
+                                        "name": "picture.lsmat",
+                                        "hash": "ce5107449c4c55126b3bc4245edced90",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-30T21:46:36",
+                                "name": "Meshes",
+                                "hash": "5a8dbd5ce0b3a2fa2c6b14f24abd3dc7",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "Plane.mesh",
+                                        "hash": "4649d59d58657e786eebaad58a052d2a",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-30T21:46:36",
+                                "name": "Scripts",
+                                "hash": "c92afc1d882bee564d2327e290431277",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "PictureFrameController.js",
+                                        "hash": "5c409f7baf1c03bafcbfebbd3a9d4bbf",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "UniformScale.js",
+                                        "hash": "77fb6fb68f75ae678645d6cade0fff63",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "441e03e6cbaf2911803ef82a1578cb84",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-02-01T08:28:11",
+                                "name": "Textures",
+                                "hash": "0d075cb25027dd36e73f64446671cdc2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-30T21:56:50",
+                                        "name": "cat (2).jpg",
+                                        "hash": "2f5f89279d541963faaf4a41e2f6945d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-30T21:37:07",
+                                        "name": "cat.jpg",
+                                        "hash": "80d149e6c51d6e2ea25e760b06c65ab8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-02-01T08:24:36",
+                                        "name": "Feburary Clandestine Menu - 3040 The Park - 2023 - Final.png",
+                                        "hash": "6e8c249e872e3523bb11b36cf67907b2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "ground_grid.png",
+                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-22T12:14:35",
+                                        "name": "marvista.hdr",
+                                        "hash": "a7ac471fd7325168eb784a10577fb476",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-30T21:26:20",
+                                        "name": "menu.jpg",
+                                        "hash": "31542963a826ba4a1fc6bc3837e60469",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Frames",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cap_frame_materialParams",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "182",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1509492833333682:279835",
+                                        "fileId": "6",
+                                        "originalId": "67",
+                                        "publicId": "3",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "39d1728142e928fc2f2e3292eb1825a9"
+                                        }
+                                    },
+                                    {
+                                        "name": "cap_frame_base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "183",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1509492833374091:279844",
+                                        "fileId": "7",
+                                        "originalId": "68",
+                                        "publicId": "4",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "e6e030a0075b1caf35ec5f30f3700cdb"
+                                        }
+                                    },
+                                    {
+                                        "name": "white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "257",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1510622784648922:14164",
+                                        "fileId": "21",
+                                        "originalId": "69",
+                                        "publicId": "5",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "e6e030a0075b1caf35ec5f30f3700cdb"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Gloss",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "332",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1519941447468011:639987",
+                                        "fileId": "31",
+                                        "originalId": "49",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Matte",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "338",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1519941807816995:642925",
+                                        "fileId": "32",
+                                        "originalId": "50",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Gold",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "346",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1519942080527926:647490",
+                                        "fileId": "34",
+                                        "originalId": "52",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "350",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1623376089767855:7533779",
+                                        "fileId": "78",
+                                        "originalId": "79",
+                                        "publicId": "26636",
+                                        "source": "",
+                                        "additional": {
+                                            "isUnpackedInPublic": "false"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "frame_a",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "corner_a",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "210",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510598751069370:21167",
+                                                "fileId": "15",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "13",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "side_a",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "211",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510598777425338:21184",
+                                                "fileId": "16",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "14",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "frame_b",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "side_b_matte",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "252",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510622465510160:8396",
+                                                "fileId": "17",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "16",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "corner_b_matte",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "251",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510622465578083:8415",
+                                                "fileId": "18",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "17",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "side_b",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "250",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510622465578336:8431",
+                                                "fileId": "19",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "corner_b",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "247",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510622465578532:8443",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "19",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Others",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "20",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "ground_grid_mesh",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "5",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1498868100994851:367",
+                                                "fileId": "1",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "21",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "picture_collision_and_caster",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "208",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1509520383227958:24746",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "frame_c",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "corner_c",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "267",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510623174345981:25871",
+                                                "fileId": "22",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "24",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "side_c",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "261",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510623174404575:25886",
+                                                "fileId": "23",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "star_01",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "278",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510624714392951:103122",
+                                                "fileId": "25",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "star_02",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "279",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510624714393132:103128",
+                                                "fileId": "26",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "27",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "star_03",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "282",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1510624714393309:103134",
+                                                "fileId": "27",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "28",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Graph Matte Shadow",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "349",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1599160408798281:1210993",
+                                "fileId": "61",
+                                "originalId": "62",
+                                "publicId": "7768",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "351",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623376293169045:7562878",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "26638",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "picture",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "353",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1623376314872791:7567959",
+                                "fileId": "86",
+                                "originalId": "87",
+                                "publicId": "26639",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "33",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1498868868171510:1508",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "35",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PictureFrameController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "160",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1509487787794075:30175",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "36",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "UniformScale",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "275",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1510624611313663:97512",
+                                "fileId": "24",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "38",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "196",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1509493318443637:287012",
+                                "fileId": "12",
+                                "originalId": "72",
+                                "publicId": "43",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "caeea0e0bf0313ac710d99cb41b32f56"
+                                }
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "200",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1509493543692629:66391",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "marvista",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "60",
+                                "originalId": "18446744073709551615",
+                                "publicId": "627",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "347",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588126234518369:221323",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "348",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588126234532543:221330",
+                                        "fileId": "58",
+                                        "originalId": "59",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "menu",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "355",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675143299128207:115968",
+                                "fileId": "102",
+                                "originalId": "103",
+                                "publicId": "26871",
+                                "source": "D:\/Photos\/Camera Uploads_late22_early23\/2023-01-23 12.31.50 (2).jpg",
+                                "additional": {
+                                    "originHash": "31542963a826ba4a1fc6bc3837e60469"
+                                }
+                            },
+                            {
+                                "name": "cat",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "356",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675143451595483:127190",
+                                "fileId": "105",
+                                "originalId": "106",
+                                "publicId": "26872",
+                                "source": "D:\/Photos\/Camera Uploads_late22_early23\/2023-01-23 12.32.04 (2).jpg",
+                                "additional": {
+                                    "originHash": "80d149e6c51d6e2ea25e760b06c65ab8"
+                                }
+                            },
+                            {
+                                "name": "cat (2)",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "359",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675144612563463:212597",
+                                "fileId": "113",
+                                "originalId": "114",
+                                "publicId": "26874",
+                                "source": "D:\/Apps\/Snap Inc\/the_park\/Public\/Textures\/cat (2).jpg",
+                                "additional": {
+                                    "originHash": "2f5f89279d541963faaf4a41e2f6945d"
+                                }
+                            },
+                            {
+                                "name": "Feburary Clandestine Menu - 3040 The Park - 2023 - Final",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "360",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675268889363027:7960",
+                                "fileId": "116",
+                                "originalId": "117",
+                                "publicId": "26875",
+                                "source": "C:\/Users\/rsash\/Downloads\/Feburary Clandestine Menu - 3040 The Park - 2023 - Final .png",
+                                "additional": {
+                                    "originHash": "6e8c249e872e3523bb11b36cf67907b2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "45",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "329",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1511405079705702:97231",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "46",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "354",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1498868100994851:367",
+                    "v": {
+                        "infos": {
+                            "originalSize": "480",
+                            "compressedSize": "480",
+                            "originalRAM": "204",
+                            "compressedRAM": "204",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "94",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1509493318443637:287012",
+                    "v": {
+                        "infos": {
+                            "originalSize": "71161",
+                            "compressedSize": "84856",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "65",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "caeea0e0bf0313ac710d99cb41b32f56",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "76"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1509520383227958:24746",
+                    "v": {
+                        "infos": {
+                            "originalSize": "477",
+                            "compressedSize": "477",
+                            "originalRAM": "204",
+                            "compressedRAM": "204",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "95",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510598751069370:21167",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4604",
+                            "compressedSize": "4604",
+                            "originalRAM": "5856",
+                            "compressedRAM": "5856",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "88",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510598777425338:21184",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2241",
+                            "compressedSize": "2241",
+                            "originalRAM": "3384",
+                            "compressedRAM": "3384",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "89",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510622465510160:8396",
+                    "v": {
+                        "infos": {
+                            "originalSize": "519",
+                            "compressedSize": "519",
+                            "originalRAM": "280",
+                            "compressedRAM": "280",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "90",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510622465578083:8415",
+                    "v": {
+                        "infos": {
+                            "originalSize": "469",
+                            "compressedSize": "469",
+                            "originalRAM": "140",
+                            "compressedRAM": "140",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "91",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510622465578336:8431",
+                    "v": {
+                        "infos": {
+                            "originalSize": "626",
+                            "compressedSize": "626",
+                            "originalRAM": "636",
+                            "compressedRAM": "636",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "92",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510622465578532:8443",
+                    "v": {
+                        "infos": {
+                            "originalSize": "847",
+                            "compressedSize": "847",
+                            "originalRAM": "1340",
+                            "compressedRAM": "1340",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "93",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510623174345981:25871",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1659",
+                            "compressedSize": "1659",
+                            "originalRAM": "3288",
+                            "compressedRAM": "3288",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "96",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510623174404575:25886",
+                    "v": {
+                        "infos": {
+                            "originalSize": "754",
+                            "compressedSize": "754",
+                            "originalRAM": "1224",
+                            "compressedRAM": "1224",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "97",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510624714392951:103122",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2399",
+                            "compressedSize": "2399",
+                            "originalRAM": "3216",
+                            "compressedRAM": "3216",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "98",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510624714393132:103128",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2432",
+                            "compressedSize": "2432",
+                            "originalRAM": "3216",
+                            "compressedRAM": "3216",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "99",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1510624714393309:103134",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2342",
+                            "compressedSize": "2342",
+                            "originalRAM": "3216",
+                            "compressedRAM": "3216",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "100",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1511405079705702:97231",
+                    "v": {
+                        "infos": {
+                            "originalSize": "796",
+                            "compressedSize": "796",
+                            "originalRAM": "1792",
+                            "compressedRAM": "1792",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "bitangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture1",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "101",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675143299128207:115968",
+                    "v": {
+                        "infos": {
+                            "originalSize": "267811",
+                            "compressedSize": "267811",
+                            "originalRAM": "12500992",
+                            "compressedRAM": "12500992",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "104",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675143451595483:127190",
+                    "v": {
+                        "infos": {
+                            "originalSize": "486020",
+                            "compressedSize": "486020",
+                            "originalRAM": "13213696",
+                            "compressedRAM": "13213696",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "107",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675144612563463:212597",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4767825",
+                            "compressedSize": "4767825",
+                            "originalRAM": "9729996",
+                            "compressedRAM": "9729996",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "115",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675268889363027:7960",
+                    "v": {
+                        "infos": {
+                            "originalSize": "481466",
+                            "compressedSize": "178634",
+                            "originalRAM": "12360000",
+                            "compressedRAM": "1548000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "118",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6e8c249e872e3523bb11b36cf67907b2",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "119"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Picture Frame",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/4xiE9fHCv6k4xaKvkKLsKa\/01cf56fbe884b2296ac8044b271f7213\/picture_frame_template.zip"
+}
